@@ -21,6 +21,6 @@
     "@e2b/code-interpreter": "^0.0.2",
     "@mendable/firecrawl-js": "^0.0.21",
     "buffer": "^6.0.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.6.1"
   }
 }
